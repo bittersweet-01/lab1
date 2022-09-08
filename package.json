@@ -1,0 +1,26 @@
+{
+  "name": "lab1",
+  "version": "1.0.0",
+  "description": "lab1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bittersweet-01/lab1.git"
+  },
+  "keywords": [
+    "lab1"
+  ],
+  "author": "Viktoria Syrotynska",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bittersweet-01/lab1/issues"
+  },
+  "homepage": "https://github.com/bittersweet-01/lab1#readme",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
